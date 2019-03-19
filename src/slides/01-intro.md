@@ -1,25 +1,64 @@
-# Gatsby Deck
+# Kodekonk
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+En uformell programmeringskonkurranse for læring og morro.
 
 ---
 
-# 🤫
+* Maksimalt 5 per lag
+* 60 min før svarene skal være inn
+* Oppgavene
+
 
 ---
 
-## Slides are written in Markdown!
+## Oppgave 1
+##### *Avoid blue!*
 
-Here's the source of the first slide:
+Du finner løsningen som er et heltall ved å spille spillet. Eller finnes det en annen mer uærlig måte å gjøre det på?
 
-    # Gatsby Deck
+Link til spillet: [Avoid blue!](https://teodoran.github.io/puzzle-2.html)
 
-    Create presentations using Gatsby & React.
+---
+
+## Oppgave 2
+##### *Summa summarum*
+
+Her har noen prøvd å summere en tallrekke, men noe er galt. Men hva? Klarer du å fullføre?
+
+Link til utfordring: [Summa summarum](https://dotnetfiddle.net/pupNbc)
+
+---
+
+## Oppgave 3
+##### *Jul i mars*
+
+Har du begynt å glede deg til jul? Kan du hjelpe til med å gjøre juletreet komplett? 
+
+Link til utfordring: [Jul i mars](https://dotnetfiddle.net/0CdnVj)
+
+---
+
+## Oppgave 4
+##### *Forvirret skydriftsansvarlig*
+
+Pål har glemt passordet sitt og latt terminalen til Geodata Online være åpen. Kan du hjelpe han med å finne passordet?
+
+Link til terminal: [Geodata Online](https://teodoran.github.io/puzzle-1.html)
+
+---
+
+## Oppgave 5
+##### *Glemsk markedsavdeling*
+
+Ove hadde skrevet ned hva som skulle stå på de nye capsene vi skulle få for å huske det. Men på en eller annen måte har han blitt angrepet av et løsepengevirus som har kryptert det han hadde skrevet. Hackerene klarte å legge igjen koden de brukte til å kryptere beskjeden. Hjelp Ove slik at han ikke må betale hackerne!
+
+Den krypterte beskjeden: 
+
+    lkpfsahgfapiosuhfh32874y2u4h2o134
+
+Link til krypteringskoden: [Krypteringskode](https://gist.github.com/tormaroe/7880043)
+
+---
+
+Svar sendes inn her:
+

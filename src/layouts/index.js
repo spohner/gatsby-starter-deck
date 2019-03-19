@@ -62,8 +62,8 @@ class TemplateWrapper extends Component {
           title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
         />
         <Header
-          name={site.siteMetadata.name}
-          title={site.siteMetadata.title}
+          name={site.siteMetadata.title}
+          title={site.siteMetadata.name}
           date={site.siteMetadata.date}
         />
         <Swipeable
@@ -71,7 +71,9 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" style={{'width': '100%'}}>{children}</div>
+            <div id="slide" style={{ width: '100%' }}>
+              {children}
+            </div>
           </Transition>
         </Swipeable>
       </div>
