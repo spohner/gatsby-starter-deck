@@ -7,6 +7,8 @@ En uformell programmeringskonkurranse for læring og morro.
 * Maksimalt 5 per lag
 * 60 min før svarene skal være inne
 * Oppgavene er varierende i vanskelighetsgrad
+* Svarene er et postivt heltall om ikke annet er oppgitt.
+* Alt er lov.
 
 
 ---
