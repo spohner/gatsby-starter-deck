@@ -5,8 +5,8 @@ En uformell programmeringskonkurranse for læring og morro.
 ---
 
 * Maksimalt 5 per lag
-* 60 min før svarene skal være inn
-* Oppgavene
+* 60 min før svarene skal være inne
+* Oppgavene er varierende i vanskelighetsgrad
 
 
 ---
@@ -54,11 +54,11 @@ Ove hadde skrevet ned hva som skulle stå på de nye capsene vi skulle få for �
 
 Den krypterte beskjeden: 
 
-    lkpfsahgfapiosuhfh32874y2u4h2o134
+    I/Wju!iwps!ev!fs/!Wju!iwps!ev!tlbm
 
 Link til krypteringskoden: [Krypteringskode](https://gist.github.com/tormaroe/7880043)
 
 ---
 
-Svar sendes inn her:
+Svar sendes her innen tidsfristen: [Svarskjema](https://docs.google.com/forms/d/e/1FAIpQLSfZymHnMg5hlqZcYnAmz5GzF5ksJaq-JlmG08vnFA13QhTSyA/viewform)
 
