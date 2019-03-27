@@ -45,7 +45,7 @@ Link til utfordring: [Jul i mars](https://dotnetfiddle.net/0CdnVj)
 
 Pål har glemt passordet sitt og latt terminalen til Geodata Online være åpen. Kan du hjelpe han med å finne passordet?
 
-Link til terminal: [Geodata Online](https://teodoran.github.io/puzzle-1.html)
+Link til terminal: [Geodata Online](https://s3-eu-west-1.amazonaws.com/geodata-hosting-devenv01-test/static/gdo_terminal_dummy.html)
 
 ---
 
