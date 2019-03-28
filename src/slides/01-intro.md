@@ -56,7 +56,7 @@ Ove hadde skrevet ned hva som skulle stå på de nye capsene vi skulle få for �
 
 Den krypterte beskjeden: 
 
-    I/Wju!iwps!ev!fs/!Wju!iwps!ev!tlbm
+    p2b|Zmx$lzsv$hy$iv2$Zmx$lzsv$hy$woe
 
 Link til krypteringskoden: [Krypteringskode](https://gist.github.com/tormaroe/7880043)
 
